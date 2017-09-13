@@ -101,7 +101,7 @@ public class JPADemo {
                 demo.remove(firstName, lastName);
                 break;
             case "find":
-                System.out.print("Hey.");
+                System.out.print("Hey. It's me.");
                 System.out.println("Find operation using id's");
                 demo.find();
                 break;
